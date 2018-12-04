@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Servlet Tutotial
+title: Servlet Tutotial(What is servlet)
 date: 2018-12-02 23:36:00.000000000 +09:00
 ---
 
